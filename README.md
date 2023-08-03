@@ -1,2 +1,2 @@
-# BI_RFM_Dashborad
+# BI_RFM_Dashboard
 Sales performace analysis using RFM Model
